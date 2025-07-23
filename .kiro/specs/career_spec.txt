@@ -1,0 +1,6 @@
+Create a web app that:
+- Asks user for their name, education, interests, and location
+- Suggests 3 suitable career paths
+- For each path, provide a roadmap and links to online resources
+- Recommend freelance sites based on location and interest
+- Support Urdu language
